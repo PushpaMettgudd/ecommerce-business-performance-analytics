@@ -16,6 +16,17 @@ The project follows a complete analytics workflow including data cleaning, valid
 - Microsoft Excel
 
 ---
+## Dashboard Preview
+
+### Executive Overview
+<img width="1125" height="631" alt="Executive Overview" src="https://github.com/user-attachments/assets/1ae6e3ef-e1b2-47d6-9a0d-e514a80219ce" />
+
+### Customer & Product Insights
+<img width="1168" height="663" alt="Customer  product Insights" src="https://github.com/user-attachments/assets/3ca46b12-eb97-4932-9005-b72c3909e568" />
+
+### Operations & Order Performance
+<img width="1172" height="665" alt="Operation   Order performance" src="https://github.com/user-attachments/assets/3839c582-f46e-4bae-ae7b-af12d867fd95" />
+
 
 ## Dataset
 
